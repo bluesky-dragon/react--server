@@ -10,7 +10,7 @@ This is a simple collection of useful config files to enforce a clean statically
 # Get Started
 ## git 
     git init 
-    git remote add clean-code https://github.com/state-less/clean-starter-backend.git
+    git remote add clean-code https://github.com/bluesky-dragon/react-server.git
     git fetch --all
     git checkout clean-code/react-server -- *
     git remote remove clean-code
